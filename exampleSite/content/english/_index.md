@@ -10,7 +10,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: It is all advantages
   feature_item:
   - name: Liquidity
     icon: fas fa-money-bill-alt
