@@ -24,9 +24,9 @@ feature:
   - name: Decentralization
     icon: fas fa-heart
     content: No single point of failure for a more secure and reliable system
-  - name: Faster Response
+  - name: Innovation
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: New solutions for new problems or unsolved old ones
   - name: Cloud Support
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
