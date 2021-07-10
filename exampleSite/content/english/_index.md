@@ -96,6 +96,5 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
-draft: true
 
 ---
