@@ -12,9 +12,9 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
+  - name: Liquidity
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Digital tokens are easily traded
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
