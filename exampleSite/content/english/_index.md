@@ -25,7 +25,7 @@ feature:
     icon: fas fa-users
     content: No single point of failure for a more secure and reliable system
   - name: Innovation
-    icon: fas fa-tachometer-alt
+    icon: fas fa-lightbulb
     content: New solutions for new problems or unsolved old ones
   - name: Better processes
     icon: fas fa-cloud
