@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Digitized alternative invetments
+  title: Digitized alternative investments
   image: images/banner-art.svg
   content: We will guide through the process of attaching rights of an asset to a
     token in a blockchain.<br> Get all the advantages without the hassle.
