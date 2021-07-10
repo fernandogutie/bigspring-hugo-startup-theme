@@ -27,9 +27,9 @@ feature:
   - name: Innovation
     icon: fas fa-tachometer-alt
     content: New solutions for new problems or unsolved old ones
-  - name: Cloud Support
+  - name: Better processes
     icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Smart contracts are more reliable than humans
 service:
   enable: true
   service_item:
