@@ -16,7 +16,7 @@ feature:
     icon: fas fa-money-bill-alt
     content: Digital tokens are easily traded
   - name: Transparency
-    icon: fas fa-object-group
+    icon: fas fa-glasses
     content: Everything traded and accounted for at all times
   - name: Automation
     icon: fas fa-user-clock
