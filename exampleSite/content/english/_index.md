@@ -19,7 +19,7 @@ feature:
     icon: fas fa-glasses
     content: Everything traded and accounted for at all times
   - name: Automation
-    icon: fas fa-user-clock
+    icon: fas fa-robot
     content: Fully automated governance, regulatory, and compliance requirements
   - name: Decentralization
     icon: fas fa-heart
