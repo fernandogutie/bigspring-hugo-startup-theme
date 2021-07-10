@@ -18,9 +18,9 @@ feature:
   - name: Transparency
     icon: fas fa-object-group
     content: Everything traded and accounted for at all times
-  - name: 24h Service
+  - name: Automation
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Fully automated governance, regulatory, and compliance requirements
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
