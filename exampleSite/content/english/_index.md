@@ -28,7 +28,7 @@ feature:
     icon: fas fa-lightbulb
     content: New solutions for new problems or unsolved old ones
   - name: Better processes
-    icon: fas fa-cloud
+    icon: fas fa-project-diagram
     content: Smart contracts are more reliable than humans
 service:
   enable: false
