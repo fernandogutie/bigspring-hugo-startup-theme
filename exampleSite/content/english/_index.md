@@ -31,7 +31,7 @@ feature:
     icon: fas fa-cloud
     content: Smart contracts are more reliable than humans
 service:
-  enable: true
+  enable: false
   service_item:
   - title: It is the most advanced digital marketing and it company.
     images:
