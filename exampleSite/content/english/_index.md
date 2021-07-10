@@ -21,9 +21,9 @@ feature:
   - name: Automation
     icon: fas fa-user-clock
     content: Fully automated governance, regulatory, and compliance requirements
-  - name: Value For Money
+  - name: Decentralization
     icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: No single point of failure for a more secure and reliable system
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
