@@ -22,7 +22,7 @@ feature:
     icon: fas fa-robot
     content: Fully automated governance, regulatory, and compliance requirements
   - name: Decentralization
-    icon: fas fa-heart
+    icon: fas fa-users
     content: No single point of failure for a more secure and reliable system
   - name: Innovation
     icon: fas fa-tachometer-alt
