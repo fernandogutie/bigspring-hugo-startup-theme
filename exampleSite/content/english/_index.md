@@ -13,7 +13,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: Liquidity
-    icon: fas fa-code
+    icon: fas fa-money-bill-alt
     content: Digital tokens are easily traded
   - name: Transparency
     icon: fas fa-object-group
