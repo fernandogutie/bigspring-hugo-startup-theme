@@ -91,8 +91,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Let's discuss your needs.
   button:
     enable: true
     label: Contact Us
