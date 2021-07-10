@@ -15,9 +15,9 @@ feature:
   - name: Liquidity
     icon: fas fa-code
     content: Digital tokens are easily traded
-  - name: Object Oriented
+  - name: Transparency
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Everything traded and accounted for at all times
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
