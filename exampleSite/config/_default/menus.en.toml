@@ -24,6 +24,10 @@ name = "Home"
 url = "/"
 weight = 1
 [[main]]
+name = "FAQ"
+url = "faq"
+weight = 5
+[[main]]
 name = "Blog"
 url = "blog"
 weight = 2
@@ -31,7 +35,3 @@ weight = 2
 name = "Contact"
 url = "contact"
 weight = 4
-[[main]]
-name = "FAQ"
-url = "faq"
-weight = 5
