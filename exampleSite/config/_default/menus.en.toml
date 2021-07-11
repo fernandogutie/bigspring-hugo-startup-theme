@@ -30,7 +30,7 @@ weight = "2"
 [[main]]
 name = "Blog"
 url = "blog"
-weight = 2
+weight = "3"
 [[main]]
 name = "Contact"
 url = "contact"
