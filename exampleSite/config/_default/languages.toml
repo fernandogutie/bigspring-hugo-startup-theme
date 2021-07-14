@@ -1,3 +1,13 @@
+[en]
+contentDir = "content/english"
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+footer_content = "Digitalization of alternative assets."
+footer_menu_left = "Company"
+footer_menu_middle = "Services"
+footer_menu_right = "Support"
+languageName = "En"
+title = "Bigspring Hugo"
+weight = 1
 [es]
 contentDir = "content/espanol"
 copyright = "Diseño de [Themefisher](https://themefisher.com/) desarrollado por [Gethugothemes](https://gethugothemes.com/)"
@@ -8,13 +18,3 @@ footer_menu_right = "Soporte"
 languageName = "ES"
 title = "Bigspring Hugo"
 weight = 2
-[en]
-contentDir = "content/english"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-footer_menu_left = "Company"
-footer_menu_middle = "Services"
-footer_menu_right = "Support"
-languageName = "En"
-title = "Bigspring Hugo"
-weight = 1
